@@ -2,6 +2,8 @@
 
 # DMX Controller
 
+This repository contains a hardware design for a custom DMX512 controller as well as the corresponding firmware that allows the hardware to be controlled via a serial port on a computer.
+
 ## Structure
 
 In this repository, you'll find the following:
