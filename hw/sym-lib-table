@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name isl83490)(type Legacy)(uri ${KIPRJMOD}/isl83490.lib)(options "")(descr ""))
+  (lib (name dmx_serial_controller-rescue)(type Legacy)(uri ${KIPRJMOD}/dmx_serial_controller-rescue.lib)(options "")(descr ""))
+)
